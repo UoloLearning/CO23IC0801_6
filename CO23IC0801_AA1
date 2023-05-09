@@ -1,0 +1,21 @@
+public class Main {
+    public static void main(String[] args) {
+        byte number1 = 64;
+        System.out.println("A byte-sized number is " + number1+"\n");
+         short number2 = 32000;
+        System.out.println("A short-sized number is " + number2+"\n");
+         int number3 = -2010097456;
+        System.out.println("An int-sized number is " + number3 +"\n");
+         long number4 = 1956789034264578326L;
+        System.out.println("A long-sized number is " + number4+"\n");
+    }
+}
+
+Output: 
+A byte-sized number is 64
+
+A short-sized number is 32000
+
+An int-sized number is -2010097456
+
+A long-sized number is 1956789034264578326
