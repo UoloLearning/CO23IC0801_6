@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+        float number1 = 645.674356f;
+        System.out.println("A float-sized decimal number is " + number1 + "\n");
+        double number2 = 3229.0065389723451d;
+        System.out.println("A double-sized decimal number is " + number2 + "\n");
+    }
+}
+
+Output: 
+A float-sized decimal number is 645.6744
+A double-sized decimal number is 3229.006538972345
