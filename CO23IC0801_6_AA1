@@ -10,12 +10,3 @@ public class Main {
         System.out.println("A long-sized number is " + number4+"\n");
     }
 }
-
-Output: 
-A byte-sized number is 64
-
-A short-sized number is 32000
-
-An int-sized number is -2010097456
-
-A long-sized number is 1956789034264578326
