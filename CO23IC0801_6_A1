@@ -6,7 +6,3 @@ public class Main {
         System.out.println("A double-sized decimal number is " + number2 + "\n");
     }
 }
-
-Output: 
-A float-sized decimal number is 645.6744
-A double-sized decimal number is 3229.006538972345
